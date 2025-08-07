@@ -1,0 +1,1 @@
+<content of useCounter.test.ts here>
